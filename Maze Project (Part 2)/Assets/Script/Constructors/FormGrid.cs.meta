@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 3d42828b06b644ce5b7fb9328c8eef55
+timeCreated: 1457018854
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {fileID: 123458, guid: a233efef04e5746e09c7a89f73485a49, type: 2}
+  - postPrefab: {fileID: 157470, guid: 69119f38e7b604a2b8a8c10d3140c237, type: 2}
+  - Parent: {instanceID: 0}
+  - _camera: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
